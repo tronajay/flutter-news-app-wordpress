@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
-import 'package:flutter_html/flutter_html.dart';
 import 'package:http/http.dart' as http;
 import 'postdetails.dart';
 
